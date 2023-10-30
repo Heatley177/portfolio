@@ -1,2 +1,2 @@
-# Welcome to my portfolio site testing grounds.
-Lets see how this goes shall we
+# Welcome to my portfolio site 
+- Unfortunately it's still under construction!
